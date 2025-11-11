@@ -1,2 +1,3 @@
-This contains sql sample data to use.
-Version: MySQL Workbench Community 8.0.38
+Contains sql sample data <br>
+Version Used: MySQL Workbench Community 8.0.38 <br>
+Install Latest: https://dev.mysql.com/downloads/workbench/ <br>
